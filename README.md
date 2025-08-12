@@ -1,6 +1,10 @@
 # Private-Audits
 A repo containing all audits done under a firm or privately
 
+## CODESPECT - HypurrStake 27 July, 2025 - 31 July, 2025
+
+Report in progress
+
 ## CODESPECT - TokenTable MerkleDistributorWithFees 24 June, 2025
 
 Report in progress
