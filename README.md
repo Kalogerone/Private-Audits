@@ -1,17 +1,33 @@
 # Private-Audits
 A repo containing all audits done under a firm or privately
 
+## CODESPECT - DEFA 25 Feb, 2026 - 03 Mar, 2026
+
+In progress
+
+## Sherlock x CODESPECT - Vesu 6 Feb, 2026 - 21 Feb, 2026
+
+[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2026.03.18%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201773874144.pdf)
+
+## CODESPECT - AegisDFF 14 Jan, 2026 - 29 Jan, 2026
+
+[Report](https://github.com/CODESPECT-security/audit-reports/blob/main/053_CODESPECT_AEGIS_DFF.pdf)
+
+## Sherlock x CODESPECT Troves 7 Jan, 2026 - 11 Jan, 2026
+
+In progress
+
 ## CODESPECT - TEN 19 Nov, 2025 - 27 Nov, 2025 (Lead Auditor)
 
-Report in progress
+Report is private
 
 ## CODESPECT - HyperBeat 17 Nov, 2025 - 18 Nov, 2025
 
-Report in progress
+Report is private
 
 ## Sherlock x CODESPECT - Vesu 10 Nov, 2025 - 13 Nov, 2025
 
-Report in progress
+[Report](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2025.12.10%20-%20Final%20-%20Vesu%20Collaborative%20Audit%20Report%201765410223.pdf)
 
 ## CODESPECT - Olas 24 Sept, 2025 - 14 Oct, 2025 (Lead Auditor)
 
