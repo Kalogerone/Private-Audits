@@ -3,7 +3,7 @@ A repo containing all audits done under a firm or privately
 
 ## CODESPECT - DEFA 25 Feb, 2026 - 03 Mar, 2026
 
-In progress
+Report is private
 
 ## Sherlock x CODESPECT - Vesu 6 Feb, 2026 - 21 Feb, 2026
 
