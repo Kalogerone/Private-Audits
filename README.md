@@ -31,7 +31,7 @@ Report is private
 
 ## CODESPECT - Olas 24 Sept, 2025 - 14 Oct, 2025 (Lead Auditor)
 
-Report is private
+[Report](https://github.com/CODESPECT-security/audit-reports/blob/main/034_CODESPECT_LSTOLAS.pdf)
 
 ## Sherlock x CODESPECT - Vesu 10 Sept, 2025 - 17 Sept, 2025
 
