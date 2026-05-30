@@ -1,6 +1,10 @@
 # Private-Audits
 A repo containing all audits done under a firm or privately
 
+## CODESPECT - DEFA 04 May, 2026 - 21 May, 2026 (Lead Auditor)
+
+In progress
+
 ## CODESPECT - DEFA 25 Feb, 2026 - 03 Mar, 2026
 
 Report is private
@@ -15,7 +19,7 @@ Report is private
 
 ## Sherlock x CODESPECT Troves 7 Jan, 2026 - 11 Jan, 2026
 
-In progress
+Report is private
 
 ## CODESPECT - TEN 19 Nov, 2025 - 27 Nov, 2025 (Lead Auditor)
 
