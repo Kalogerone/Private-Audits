@@ -1,9 +1,13 @@
 # Private-Audits
 A repo containing all audits done under a firm or privately
 
-## CODESPECT - DEFA 04 May, 2026 - 21 May, 2026 (Lead Auditor)
+## CODESPECT - Starkware 22 June, 2026 - 03 July, 2026
 
-In progress
+Report is private
+
+## CODESPECT - Syntropix 04 May, 2026 - 21 May, 2026 (Lead Auditor)
+
+Report is private
 
 ## CODESPECT - DEFA 25 Feb, 2026 - 03 Mar, 2026
 
