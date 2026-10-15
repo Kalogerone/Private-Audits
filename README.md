@@ -1,6 +1,10 @@
 # Private-Audits
 A repo containing all audits done under a firm or privately
 
+## CODESPECT - Frax 30 Sep, 2026 - 02 Oct, 2026
+
+Report is private
+
 ## CODESPECT - Starkware 22 June, 2026 - 03 July, 2026
 
 Report is private
