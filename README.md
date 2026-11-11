@@ -3,7 +3,7 @@ A repo containing all audits done under a firm or privately
 
 ## CODESPECT - Frax 30 Sep, 2026 - 02 Oct, 2026
 
-Report is private
+[Report](https://github.com/CODESPECT-security/audit-reports/blob/main/070_Frax_Router_MultihopV2.pdf)
 
 ## CODESPECT - Starkware 22 June, 2026 - 03 July, 2026
 
